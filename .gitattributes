@@ -1,0 +1,5 @@
+# Override GitHub language detection
+scripts/* linguist-vendored
+*.sh linguist-vendored
+*.md linguist-documentation=false
+SKILL.md linguist-detectable
